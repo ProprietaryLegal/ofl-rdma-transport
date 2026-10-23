@@ -1,0 +1,10 @@
+PLI Labs — ofl-rdma-transport
+Copyright 2026 Proprietary Legal Intelligence LLC
+
+PLI Labs implementation and tests: Apache-2.0; full text: LICENSES/Apache-2.0.txt.
+
+No third-party source or upstream patch set is included under code/transport.
+
+External dependencies, not bundled: libibverbs/rdma-core, pthreads and compiler/system runtime libraries. Their own licence terms apply; rdma-core licence inventory: https://github.com/linux-rdma/rdma-core/blob/master/COPYING.md .
+
+DeepSeek, HeNryous, sudoingX, vLLM and turboderp/exllamav3 supply the separately obtained model and applications consuming this transport. Their code is not included here.
